@@ -31,7 +31,7 @@
         <inputAssignments>
             <field>Type__c</field>
             <value>
-                <stringValue>Mountain</stringValue>
+                <stringValue>Road</stringValue>
             </value>
         </inputAssignments>
         <inputReference>$Record</inputReference>
@@ -46,5 +46,5 @@
         <recordTriggerType>Create</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
 </Flow>
