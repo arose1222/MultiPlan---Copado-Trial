@@ -34,19 +34,6 @@
         <inputAssignments>
             <field>Type__c</field>
             <value>
-                <stringValue>Mountain</stringValue>
-            </value>
-        </inputAssignments>
-        <inputReference>$Record</inputReference>
-    </recordUpdates>
-    <recordUpdates>
-        <name>Update_Bicycle_Type_Again</name>
-        <label>Update Bicycle Type Again</label>
-        <locationX>176</locationX>
-        <locationY>431</locationY>
-        <inputAssignments>
-            <field>Type__c</field>
-            <value>
                 <stringValue>Road</stringValue>
             </value>
         </inputAssignments>
