@@ -28,6 +28,9 @@
     <layoutAssignments>
         <layout>Bicycle__c-Bicycle Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>Editable_Field__mdt-Editable Field Layout</layout>
+    </layoutAssignments>
     <loginHours n1:nil="true" />
     <loginIpRanges>
         <description>All</description>
