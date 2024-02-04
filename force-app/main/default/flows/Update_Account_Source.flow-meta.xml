@@ -34,6 +34,12 @@
                 <stringValue>Advertisement</stringValue>
             </value>
         </inputAssignments>
+        <inputAssignments>
+            <field>Industry</field>
+            <value>
+                <stringValue>Banking</stringValue>
+            </value>
+        </inputAssignments>
         <inputReference>$Record</inputReference>
     </recordUpdates>
     <start>
